@@ -1,0 +1,20 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "HennyPenny-Regular";
+  src: url("../fonts/HennyPenny-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/HennyPenny-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/HennyPenny-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/HennyPenny-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/HennyPenny-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/HennyPenny-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+h2{
+	font-family: 'Itim', cursive;
+}
+
+p{
+	font-family: "HennyPenny-Regular", cursive;
+}
